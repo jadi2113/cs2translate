@@ -1,0 +1,4 @@
+customtkinter
+deep_translator
+fasttext-predict
+nuitka
