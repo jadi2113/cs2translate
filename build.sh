@@ -6,3 +6,6 @@ python -m nuitka \
     --lto=yes \
     --output-dir=build \
     cs2translate
+
+cp -f autolaunch.bat build/autolaunch.bat
+cp -f autolaunch.sh build/autolaunch.sh
